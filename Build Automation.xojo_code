@@ -8,7 +8,7 @@
 					Target = 0
 					Destination = 1
 					Subdirectory = 
-					FolderItem = Li4vLi4vSW50cmFuZXQvZGF0YWJhc2Uuc3FsaXRl
+					FolderItem = Li4vZGF0YWJhc2Uuc3FsaXRl
 				End
 			End
 			Begin BuildStepList Mac OS X
@@ -20,7 +20,7 @@
 					Target = 0
 					Destination = 1
 					Subdirectory = 
-					FolderItem = Li4vLi4vSW50cmFuZXQvZGF0YWJhc2Uuc3FsaXRl
+					FolderItem = Li4vZGF0YWJhc2Uuc3FsaXRl
 				End
 				Begin SignProjectStep Sign
 				  DeveloperID=
@@ -35,7 +35,7 @@
 					Target = 0
 					Destination = 1
 					Subdirectory = 
-					FolderItem = Li4vLi4vSW50cmFuZXQvZGF0YWJhc2Uuc3FsaXRl
+					FolderItem = Li4vZGF0YWJhc2Uuc3FsaXRl
 				End
 			End
 			Begin BuildStepList Xojo Cloud
